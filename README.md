@@ -1,6 +1,8 @@
 # Sping-131
 Spring-131
 
+Compression Python software 
+
 Author: Jurijus Pacalovas
 
 Spring-131
